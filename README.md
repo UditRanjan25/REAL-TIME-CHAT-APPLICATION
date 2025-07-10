@@ -63,3 +63,10 @@ The Real-Time Chat Application is an effective demonstration of how to build int
 
 **OUTPUT**
 
+<img width="1919" height="958" alt="Image" src="https://github.com/user-attachments/assets/b0fc9c85-0480-4e36-8f0c-df7d09b38f07" />
+
+<img width="1917" height="954" alt="Image" src="https://github.com/user-attachments/assets/9115c924-5b69-4127-9697-35561513074c" />
+
+<img width="1919" height="951" alt="Image" src="https://github.com/user-attachments/assets/9c2eccb6-ee28-433b-8f62-4314c37306c9" />
+
+<img width="1907" height="955" alt="Image" src="https://github.com/user-attachments/assets/51c99c59-c254-4bea-a288-5ae7035414f2" />
